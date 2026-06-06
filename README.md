@@ -1,4 +1,4 @@
-# Financial Data Analysis & Cleaning Pipeline
+# Financial_Data_Analysis_&_Cleaning Pipeline
 
 A complete Python data analytics project that transforms raw, messy corporate financial transactional logs into clean, structured, and visually auditable business intelligence assets.
 
